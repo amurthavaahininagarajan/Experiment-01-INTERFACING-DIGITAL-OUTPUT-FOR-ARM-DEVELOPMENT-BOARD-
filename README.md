@@ -81,6 +81,7 @@ The main features of LPC2148 include the following.
 ## STM 32 CUBE PROGRAM :
 Developed by: AMURTHA VAAHINI.KN
 Register no: 22009070
+```python
 
 #include "main.h"
 
@@ -181,11 +182,13 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
+```
 
 
 
 ## Output  :
-![image](https://user-images.githubusercontent.com/118679102/228849496-a38f8596-b6bb-4d5f-88a6-7bef09897713.png)
+![image](https://user-images.githubusercontent.com/118679102/228850140-ae60f682-19c7-41ae-90c5-cecdde533723.png)
+
 
  
  
